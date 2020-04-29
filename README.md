@@ -1,4 +1,4 @@
-# icepractice
+# IcePractice
 A PvP practice plugin that is free and feature rich.
 
 Join my Discord server: https://www.discord.gg/ed4vQbw
